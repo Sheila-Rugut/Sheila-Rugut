@@ -1,6 +1,6 @@
 # Hi there, I'm Sheila Rugut👋 
 ## 🚀 About Me
-I'm a full stack developer based in Nairobi, Kenya. I'm passionate about coding and solving problems, and enjoy creating innovative and user-friendly applications.
+I'm a full stack developer based in Nairobi, Kenya. I'm passionate about coding and solving problems, and I enjoy creating innovative and user-friendly applications.
 ## 🛠 Skills
 - JavaScript
 - HTML/CSS
